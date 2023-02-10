@@ -1,0 +1,30 @@
+Documentación necesaria para el uso del programa de validación de DNI
+
+Usuario:
+Usted como usuario ha de introducir un DNI ya sea falso o legítimo para hacer la comprobación
+de la veracidad de este. El propio programa detectará si falta algún carácter y además
+convertirá la letra a mayúscula si fuese necesario, es decir no es obligatorio que se introduzca
+la letra mayúscula. El programa hará una serie de cálculos y deducirá si la letra introducida corresponde
+a los números introducidos.
+Nos devolverá por consola la letra y su correspondencia
+
+
+
+
+
+Desarrollador:
+Como desarrollador que usará el código ya sea para la implementación en programas o páginas web
+hay que tener en cuenta que se han usado métodos simples para que sea el código lo más entendible
+y limpio posible. Recomiendo modificar únicamente los nombres de variables y de arrays pero es usted
+libre de modificar el código a su antojo.
+
+
+
+
+
+
+Disclaimer:
+Como programador en iniciación que soy, soy consciente de las posibles faltas que he podido cometer
+y que no es el código más limpio y optimizado que existe, de aquí a futuro iré optimizando el código
+a medida que mi conocimiento crezca y además implementaré nuevas funciones de cara al usuario.
+Gracias por su comprensión
