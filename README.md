@@ -34,3 +34,7 @@ The output contains the conclusion, corresponds or no.
 Also, for developers, contains a pseudo debugger like this
 
 ![](https://i.imgur.com/nurpoUU.png)
+
+
+
+
